@@ -50,9 +50,6 @@ B.Tech. CSE (AI) final year student with a keen interest in Data Analytics, Data
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dilkushsingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilkushsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://github.com/dilkushsingh/dilkushsingh/blob/output/github-contribution-grid-snake.svg)
-
-
 <!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dilkushsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
