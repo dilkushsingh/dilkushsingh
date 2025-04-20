@@ -1,7 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=dilkushsingh&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 💫 About Me
-B.Tech. CSE (AI) final year student with a keen interest in Data Analytics, Data Science and Machine Learning. Looking for opportunities.<br>
-
+Junior Data Scientist at GKM IT
 
 ## 🌐 Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://dilkushsingh.github.io)
