@@ -3,11 +3,10 @@
 Junior Data Scientist at GKM IT
 
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://dilkushsingh.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://dilkushsingh.github.io) (currently down)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilkushsingh) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dilkushsingh) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/dilkushsingh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kr_dilkhushsinghrajput)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white)](mailto:work.dilkushsingh@gmail.com)
 
 
